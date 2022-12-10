@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımızda</title>
+    <link rel="stylesheet" href="hakkımızda.css">
+</head>
+<body class="bodi">
+    <article>
+        <tr>
+            <td><a href="index.html">Ana Sayfa</a></td>
+            <td><a href="menü.html">Menü</a> </td>
+            <td><a href="hakkımızda.html">Hakkımızda</a> </td>
+            </tr>
+        </article>
+
+<h1 class="baslik">MEŞHUR ANTEPLİ TABLACI ALPER USTA</h1>
+<p class="baragraf">Alper Usta 1978'den beri aynı yerde meşhur kemik suyuyla yaptığı kebaplarını sizlere sunmaktadır.</p>
+
+
+
+
+</body>
+
+
+</html>
