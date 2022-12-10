@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ürünler</title>
+        <link rel="stylesheet" href="menücss.css">
+    </head>
+    <body class="badi">
+        <article class="sekmes">
+            <tr>
+                <td><a href="index.html">Ana Sayfa</a></td>
+                <td><a href="products.html">Ürünler</a> </td>
+                <td><a href="about-us.html">Hakkımızda</a> </td>
+                </tr>
+         </article>
+         <h1 class="anabaslik">Ürünler</h1>
+         
+         <article class="menu">
+         <p>1</p><img src="kebap.jpg" alt="" width="300" height="300">
+         <p>Adana kebap<br>
+        fiyat:65tl</p>
+        
+        <p>2</p><img src="ciğerke.jpg" width="300" height="300">
+        <p>Ciğer Şiş<br> fiyat:65tl</p>
+        
+        <p>3</p><img src="köfte.jpg" width="300" height="300">
+        <p>köfte porsiyon <br> fiyat 90tl</p>
+
+        <p>4</p><img src="etşiş.jpg" width="300" height="300">
+        <p>et şiş porsiyon <br> fiyat 90tl</p>
+        
+        <p>5</p><img src="pirzola.jpg" width="300" height="300">    
+        <p>kuzu pirzola porsiyon <br> fiyat:150tl</p>
+         </article>
+    
+    
+    
+    </body>
+</html>
