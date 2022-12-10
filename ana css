@@ -1,0 +1,23 @@
+.yazi{
+    margin:auto;
+    text-align: center;
+    }
+    .baslik{  
+        margin:auto;
+        text-align: center;
+        }
+.baslik-rengi{
+    color:#434242
+}
+.alt-baslik{
+    color: #22A39F;
+}
+body {
+    background-color: #F3EFE0;
+    list-style-position: inside
+    
+}
+.resim-boyutu{
+    width: 200px;
+    height: auto;
+}
