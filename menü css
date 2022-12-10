@@ -1,0 +1,23 @@
+.badi{
+    margin:auto;
+    text-align: center;
+}
+
+.anabaslik{
+    margin:auto;
+    text-align: center;
+}
+
+.menu{
+    margin:auto;
+    text-align: center;
+}
+
+.sekmes{
+    margin:auto;
+    text-align: center;
+}
+    body {
+        background-color: #F3EFE0;
+        list-style-position: inside
+}
