@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Sayfa</title>
+    <link rel="stylesheet" href="yemek.css">
+</head>
+<body class="yazi">
+    <header>
+        <h1 class="baslik; baslik-rengi;"> Tablacı Alper Usta Ocakbaşı</h1>
+    </header>
+    <article>
+        <tr>
+            <td><a href="index.html">Ana Sayfa</a></td>
+            <td><a href="menü.html">Menü</a> </td>
+            <td><a href="hakkımızda.html">Hakkımızda</a> </td>
+            </tr>
+        </article>
+        <article>
+            <h2 class="alt-baslik">Ana Sayfa</h2>
+            <p>1930'dan beri değişmeyen lezzet, Tablacı Alper Usta Ocakbaşı, menümüze <a href="menü.html">buradan</a> ulaşabilirsiniz.</p>
+            <h3>Sitemizde bulunan yemek çeşitleri</h3>
+            <ul class="yazi">
+                <li>Ciğer Şiş</li>
+                <li>Adana Kebap</li>
+                <li>Köfte</li>
+                <li>Et Şiş</li>
+                <li>Kuzu Pirzola</li>
+            </ul>
+        </article>
+      
+        </body>
+
+</html>
